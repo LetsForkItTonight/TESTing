@@ -3,7 +3,7 @@ int b = 13
 int s = a + b
 print("Hello World" + s)
 
-------------------------New Author --------------------------
+New Author 
 Here is a C Code for Adding
       
 #include <stdio.h>
@@ -17,6 +17,5 @@ int main() {
 
     return 0;
 }
--------------------------------------------------------------
 
 
